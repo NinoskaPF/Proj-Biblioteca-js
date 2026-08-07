@@ -1,0 +1,27 @@
+{
+  "name": "proj-biblioteca-js",
+  "version": "1.0.0",
+  "description": "Sistema de gerenciamento de biblioteca desenvolvido para digitalizar e automatizar processos antes realizados manualmente. O projeto facilita o controle de livros, empréstimos e usuários, tornando a gestão mais rápida, organizada e eficiente.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Sem testes configurados\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinoskaPF/Proj-Biblioteca-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "biblioteca",
+    "crud"
+  ],
+  "author": "NinoskaPF",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NinoskaPF/Proj-Biblioteca-js/issues"
+  },
+  "homepage": "https://github.com/NinoskaPF/Proj-Biblioteca-js#readme"
+}

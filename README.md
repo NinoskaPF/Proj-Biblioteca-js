@@ -79,31 +79,31 @@ Após iniciar, escolha uma das opções disponíveis:
 
 ## 📚 Funcionalidades
 
-# 📖 Listagem de livros
+### 📖 Listagem de livros
 
 Permite visualizar todos os livros cadastrados na biblioteca, apresentando informações como título, autor, categoria, quantidade de páginas e disponibilidade.
 
-# 🔎 Busca de livros
+### 🔎 Busca de livros
 
 Permite buscar livros cadastrados utilizando informações como título ou outros dados disponíveis no sistema.
 
-# ✅ Listagem de livros disponíveis
+### ✅ Listagem de livros disponíveis
 
 Exibe somente os livros que estão disponíveis para empréstimo.
 
-# ➕ Cadastro de livros
+### ➕ Cadastro de livros
 
 Permite cadastrar novos livros no sistema, adicionando suas informações à base de dados.
 
-# 📤 Empréstimo de livros
+### 📤 Empréstimo de livros
 
 Permite realizar o empréstimo de um livro disponível e atualizar seu status de disponibilidade.
 
-# 📥 Devolução de livros
+### 📥 Devolução de livros
 
 Permite registrar a devolução de um livro e atualizar novamente sua disponibilidade.
 
-# 📊 Estatísticas
+### 📊 Estatísticas
 
 Apresenta informações gerais sobre os livros cadastrados e o estado atual da biblioteca.
 

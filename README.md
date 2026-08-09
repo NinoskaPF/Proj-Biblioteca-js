@@ -124,6 +124,7 @@ feature/menu-integracao — integração das funcionalidades ao menu principal.
 
 As funcionalidades foram desenvolvidas separadamente e posteriormente integradas à branch main.
 
+## ▶️ Vídeo de explicação [Assistir no YouTube](https://www.youtube.com/watch?v=PlfapBaZiQM)
 
 👤 Autor
 Ninoska Palmares
